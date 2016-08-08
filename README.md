@@ -1,6 +1,6 @@
 ## Merve Taner
 
-[Skills](#Skills) | [Education](#Education) | [Previous Work Experience](#Experience) [Interests](#Interest)
+[Skills](#skills) | [Education](#education) | [Previous Work Experience](#experience) | [Interests](#interests)
 
 I am a former scientist who studied BSc Molecular Biology and Genetics, and MSc Pharmacology. Soon after graduation, I started working as an account handler at the pharmaceutical industry. After 4-years of account management my passion for learning, creating and problem solving led me to discover my interest in learning how to code. To pursue my interest, I attended Makers Academy, a 12-week bootcamp, to study web development. During this time, I enjoyed overcoming new challenges, solving problems and researching every day. I learned the importance of writing test-driven clean code, how to learn, and asking the right questions. I gained the confidence not to be afraid of the unknown. Interestingly I also discovered that I have a great talent for table tennis.
 
@@ -61,7 +61,7 @@ Responsibilities include project management of multiple accounts including
 full financial management, internal and client/supplier liaison, team
 leadership, review of processes to improve efficiency, business development, line management and training of junior members  
 
-## <a name="interest">Interests</a>
+## <a name="interests">Interests</a>
 - Yoga
 - Fashion design
 - Painting
