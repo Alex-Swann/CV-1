@@ -1,48 +1,68 @@
-## Your Name
+## Merve Taner
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Skills](#Skills) | [Education](#Education) | [Previous Work Experience](#Experience) [Interests](#Interest)
 
-## Skills
+I am a former scientist who studied BSc Molecular Biology and Genetics, and MSc Pharmacology. Soon after graduation, I started working as an account handler at the pharmaceutical industry. After 4-years of account management my passion for learning, creating and problem solving led me to discover my interest in learning how to code. To pursue my interest, I attended Makers Academy, a 12-week bootcamp, to study web development. During this time, I enjoyed overcoming new challenges, solving problems and researching every day. I learned the importance of writing test-driven clean code, how to learn, and asking the right questions. I gained the confidence not to be afraid of the unknown. Interestingly I also discovered that I have a great talent for table tennis.
 
-#### This Skill
+I am looking for a junior development role which provides opportunities to learn and grow in a fun and exciting environment (and ideally put my table tennis skills to test).
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+## <a name="skills">Skills</a>
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have always loved tackling new challenges and opportunities to learn. During my time as an account handler I learned to apply this skill under pressure and tight timelines of delivering projects to client satisfaction.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Since I joined Makers Academy, my passion for problem solving pushed me to research, read and experiment more to find a solution to a problem. I find it fascinating when a code will not work the way you planned out to be, and this gives me the fuel I need to keep learning. In all of the projects I have worked on during Makers Academy, I found errors very intriguing, and I discovered that tackling errors and problems quickly became my favourite way of learning.
 
-## Education
+#### Mentoring
 
-#### Makers Academy (start_date to end_date)
+I believe that teaching is one of the best ways you can learn. I mentored for 2 years during my previous career as well working as a private tutor during my studies. I was quite excited to apply my mentoring skills to another budding coder at Makers Academy when I joined the course. I really enjoyed sharing my knowledge on coding, answering questions and giving advise based on the recent experiences I had at Makers. Helping my mentee as well as others in the cohort made me realise how important it is to give back, and share knowledge to grow.
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+#### Working as a part of a team
 
-#### Your University / College (start_date to end_date)
+During both my studies and career, I worked as part of small/big teams, as well as managing teams for over 3 years. The most successful projects I have delivered was the result of great team work. At Makers, I really enjoyed being part of different project teams as well as coding as a pair. This gave me the opportunity to experience coding  with people with different strengths, work on XP values and thought me to learn and grow with others. I really enjoyed not being the smartest person in the room, and to discuss and tackle problems as a part of a team.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### Organisation and time management
 
-## Experience
+As a former scientist and account manager, one of the skills I gained and proud of is to be organised, keeping to timelines as well as to budget. This skill has pushed me to target more realistic goals to achieve MVP during very short periods of time allocated for our projects at Makers.
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## <a name="education">Education</a>
+
+#### Makers Academy (May 2016 to August 2016)
+
+A 12-week web development bootcamp which puts emphasis on:
+- pair programming
+- test driven and behaviour driven development
+- agile methodologies
+- object-oriented design
+- how to learn and apply knowledge in a pressured environment and a short space of time
+
+Projects I am proud of:
+
+Project title  | Description  									| Timeframe of development | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
+[Pythia](https://github.com/Andy-Bell/pythia/)&[Delphi](https://github.com/Andy-Bell/delphi) | A search engine which is consistent of two main parts, a web crawler (Delphi) and a query engine (Pythia) | 10 days | Elixir, Phoenix Framework, Postgres| ESpec, Hound
+[Crowdcode](https://github.com/mtaner/crowdcode) | A website which allows crowdsourcing development of tech projects| 4 days | Ruby, Ruby on Rails Framework, JQuery, Postgres | RSpec, Capybara
+[Unicorn Web Framework](https://github.com/vannio/unicorn-framework) | A basic web framework, extracted from [a single page front-end javascript app](https://github.com/Jojograndjojo/To-do-List), which is available to download via [npm](https://www.npmjs.com/package/unicorn-list) | 4 days | JavaScript, Node.js | Mocha, Chai, Zombie.js
+
+
+#### University of Oxford (Sep 2010 to Sep 2011)
+
+- Pharmacology, MSc
+
+## <a name="experience">Previous Work Experience</a>
+
+- **Account Manager at Nucleus Group** (Jan 2016 to Apr 2016)
+- **Account Manager at Darwin Healthcare Communications** (Jun 2014 to Jan 2016)
+- **Senior/Account Executive at Choice Healthcare Solutions**(Jun 2012 to Jun 2014)   
+Responsibilities include project management of multiple accounts including
+full financial management, internal and client/supplier liaison, team
+leadership, review of processes to improve efficiency, business development, line management and training of junior members  
+
+## <a name="interest">Interests</a>
+- Yoga
+- Fashion design
+- Painting
+- Volunteering (active member of Rotaract of Westminster)
