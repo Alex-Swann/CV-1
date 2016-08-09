@@ -2,7 +2,7 @@
 
  [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@merve.taner/)
 
-I am a former scientist who studied BSc Molecular Biology and Genetics in Turkey, and MSc Pharmacology at the University of Oxford. Soon after graduation, I started working as an account handler in the pharmaceutical industry. After 4 years of account management my passion for learning, creating and problem solving led me to discover my interest in learning how to code. To pursue this, I attended Makers Academy, a 12-week bootcamp, to study web development. During this time, I enjoyed overcoming new challenges, solving problems and researching every day. I learned the importance of writing test-driven clean code, how to learn, and asking the right questions. I gained the confidence not to be afraid of the unknown. Interestingly, I also discovered that I have a great talent for table tennis.
+I am a former scientist who studied BSc Molecular Biology and Genetics in Turkey, and MSc Pharmacology at the University of Oxford. Soon after graduation, I started working as an account handler in the pharmaceutical industry. After 4 years of account management, my passion for learning, creating and problem solving led me to discover my interest in learning how to code. To pursue this, I attended Makers Academy, Europe's leading Web Developer bootcamp. During this time, I enjoyed overcoming new challenges, solving problems and researching every day. I learned the importance of writing test-driven clean code, how to learn, and asking the right questions. I gained the confidence not to be afraid of the unknown. Interestingly, I also discovered that I have a great talent for table tennis.
 
 I am looking for a developer role which provides opportunities to learn and grow in a fun and exciting environment (and ideally put my table tennis skills to the test).
 
@@ -10,7 +10,7 @@ I am looking for a developer role which provides opportunities to learn and grow
 
 #### Makers Academy (May 2016 to August 2016)
 
-A 12-week web development bootcamp which puts emphasis on:
+A 16-week web development bootcamp which puts emphasis on:
 - Pair programming
 - Test driven development and behaviour driven development
 - Agile methodologies
@@ -49,7 +49,7 @@ I believe that teaching is one of the best ways you can learn. I mentored for 2 
 
 #### Working as a part of a team
 
-During both my studies and career, I worked as part of both small and big teams. As an account manager I also led teams for over 3 years. The most successful projects I delivered were the result of great teamwork. At Makers, I really enjoyed being part of different project teams as well as coding as a pair. This gave me the opportunity to experience coding with people of different strengths, to work on XP values, and taught me to learn and grow with others. I really enjoyed not being the smartest person in the room, and to discuss and tackle problems as a part of a team.
+During both my studies and career, I worked as part of both small and big teams. As an account manager I also led teams for over 3 years. The most successful projects I delivered were the result of great teamwork. At Makers, I really enjoyed being part of different project teams as well as coding as a pair. This gave me the opportunity to experience coding with people of different strengths, to work on XP values, and taught me to learn and grow with others. I really enjoyed discussing and tackling problems as a part of a team, as this showed me how individual talents feed into a successful project.
 
 
 #### Organisation and time management
