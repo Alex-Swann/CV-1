@@ -6,6 +6,29 @@ I am a former scientist who studied BSc Molecular Biology and Genetics in Turkey
 
 I am looking for a developer role which provides opportunities to learn and grow in a fun and exciting environment (and ideally put my table tennis skills to the test).
 
+
+## <a name="skills">Skills</a>
+
+
+#### Problem solving
+
+I have always loved tackling new challenges and seeking out new opportunities to learn. During my time as an account handler I managed various projects with tight timelines, such as delivering scientific events for 300 attendees within 3 weeks, and learned to apply this skill under pressure.
+
+Since I joined Makers Academy my passion for problem solving has pushed me to research, read and experiment more to find solutions to problems that I came across during the course. In all of the projects I have worked on during Makers Academy, I found errors very intriguing, and I discovered that tackling errors and problems quickly became my favourite way of learning.
+
+#### Mentoring
+
+I believe that teaching is one of the best ways you can learn. I mentored for 2 years during my previous career in addition to working as a private tutor during my studies. I was quite excited to apply my mentoring skills to help another budding coder at Makers Academy. I really enjoyed sharing my knowledge on coding, answering questions and giving advice based on the recent experiences I had at Makers. Helping my mentee as well as others in the cohort made me realise how important it is to give back, and share knowledge to grow.
+
+#### Working as a part of a team
+
+During both my studies and career, I worked as part of both small and big teams. As an account manager I also led teams for over 3 years. The most successful projects I delivered were the result of great teamwork. At Makers, I really enjoyed being part of different project teams as well as coding as a pair. This gave me the opportunity to experience coding with people of different strengths, to work on XP values, and taught me to learn and grow with others. I really enjoyed discussing and tackling problems as a part of a team, as this showed me how individual talents feed into a successful project.
+
+
+#### Organisation and time management
+
+As a former scientist and account manager, one of the skills I am most proud of is to be organised, keeping to timelines as well as to budget. This skill has allowed me to target more realistic goals to achieve MVP during very short periods of time allocated for our projects at Makers.
+
 ## <a name="education">Education and Projects</a>
 
 #### Makers Academy (May 2016 to August 2016)
@@ -33,29 +56,6 @@ Project title  | Description  									| Development timeframe | Technologies | 
 #### Middle East Technical University (Sep 2006 to June 2010)
 
 - Molecular Biology and Genetics, BSc
-
-## <a name="skills">Skills</a>
-
-
-#### Problem solving
-
-I have always loved tackling new challenges and seeking out new opportunities to learn. During my time as an account handler I learned to apply this skill under pressure and deliver client projects to tight timelines.
-
-Since I joined Makers Academy my passion for problem solving has pushed me to research, read and experiment more to find solutions to problems that I came across during the course. In all of the projects I have worked on during Makers Academy, I found errors very intriguing, and I discovered that tackling errors and problems quickly became my favourite way of learning.
-
-#### Mentoring
-
-I believe that teaching is one of the best ways you can learn. I mentored for 2 years during my previous career in addition to working as a private tutor during my studies. I was quite excited to apply my mentoring skills to help another budding coder at Makers Academy. I really enjoyed sharing my knowledge on coding, answering questions and giving advice based on the recent experiences I had at Makers. Helping my mentee as well as others in the cohort made me realise how important it is to give back, and share knowledge to grow.
-
-#### Working as a part of a team
-
-During both my studies and career, I worked as part of both small and big teams. As an account manager I also led teams for over 3 years. The most successful projects I delivered were the result of great teamwork. At Makers, I really enjoyed being part of different project teams as well as coding as a pair. This gave me the opportunity to experience coding with people of different strengths, to work on XP values, and taught me to learn and grow with others. I really enjoyed discussing and tackling problems as a part of a team, as this showed me how individual talents feed into a successful project.
-
-
-#### Organisation and time management
-
-As a former scientist and account manager, one of the skills I am most proud of is to be organised, keeping to timelines as well as to budget. This skill has allowed me to target more realistic goals to achieve MVP during very short periods of time allocated for our projects at Makers.
-
 
 ## <a name="experience">Previous Work Experience</a>
 
