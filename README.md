@@ -21,8 +21,8 @@ Projects I am proud of:
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Pythia](https://github.com/Andy-Bell/pythia/)&[Delphi](https://github.com/Andy-Bell/delphi) | A search engine which consists of two main parts: a web crawler (Delphi) and a query engine (Pythia) | 10 days | Elixir, Phoenix Framework, Postgres| ESpec, Hound
-[Crowdcode](https://github.com/mtaner/crowdcode) | A website which allows crowdsourcing development of tech projects| 4 days | Ruby, Ruby on Rails Framework, JQuery, Postgres | RSpec, Capybara
+[Pythia](https://github.com/Andy-Bell/pythia/)&[Delphi](https://github.com/Andy-Bell/delphi) | A search engine which consists of two main parts: a web crawler (Delphi) and a query engine (Pythia) | 10 days | Elixir, Phoenix Framework, PostgreSQL| ESpec, ExUnit, Hound
+[Crowdcode](https://github.com/mtaner/crowdcode) | A website which allows crowdsourcing development of tech projects| 4 days | Ruby, Ruby on Rails Framework, JQuery, PostgreSQL | RSpec, Capybara
 [Unicorn Web Framework](https://github.com/vannio/unicorn-framework) | A basic web framework, extracted from [a single page front-end javascript app](https://github.com/Jojograndjojo/To-do-List), which is available to download via [npm](https://www.npmjs.com/package/unicorn-list) | 4 days | JavaScript, Node.js | Mocha, Chai, Zombie.js
 
 
